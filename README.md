@@ -23,7 +23,6 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2b%2b&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 
@@ -39,6 +38,7 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 
 ### Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)  
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)
@@ -84,7 +84,6 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 **Highlights:** AWS EC2, VPC, EFS, Auto Scaling, ALB, Route 53, IAM, CloudWatch, Linux.  
 **Repo:** [`resilient-webapp-aws`](https://github.com/VighneshPatil17/resilient-scalable-webapp-aws.git)
 
-> Tip: Keep each repo README tight: problem → approach → stack → how to run → screenshots.
 
 ---
 
