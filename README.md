@@ -36,15 +36,15 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 **Highlights:** Nginx, Docker Compose, AWS EC2, GitHub Actions CI.  
 **Repo:** [`devops-reverse-proxy`](https://github.com/<your-username>/devops-reverse-proxy)
 
-### 2) TaskFlow – Minimal CI/CD Demo
-**One-liner:** A tiny service with pipeline demonstrating build → test → containerize → deploy on push.  
-**Highlights:** GitHub Actions, Docker, AWS ECR/ECS (or Kubernetes).  
-**Repo:** [`taskflow-cicd`](https://github.com/<your-username>/taskflow-cicd)
+### 3) Automated Retail Store on Amazon EKS
+**One-liner:** 5-service retail app deployed on Amazon EKS Auto Mode with fully automated provisioning and GitOps.  
+**Highlights:** AWS EKS, Terraform, GitHub Actions, ArgoCD, Helm, Docker, NGINX Ingress.  
+**Repo:** [`retail-store-eks`](https://github.com/VighneshPatil17/retail-store-sample-app.git)
 
-### 3) SAR Change Detection (Study Project)
-**One-liner:** Image-based change detection using **Log Ratio**, **Abs Diff**, **Otsu**, and **speckle filtering** to surface meaningful changes.  
-**Highlights:** Python, NumPy, OpenCV, reproducible notebooks.  
-**Repo:** [`sar-change-detection`](https://github.com/<your-username>/sar-change-detection)
+### 3) Resilient & Scalable Web Application on AWS
+**One-liner:** Highly available and fault-tolerant web app deployed with AWS core services, handling variable traffic loads.  
+**Highlights:** AWS EC2, VPC, EFS, Auto Scaling, ALB, Route 53, IAM, CloudWatch, Linux.  
+**Repo:** [`resilient-webapp-aws`](https://github.com/VighneshPatil17/resilient-scalable-webapp-aws.git)
 
 > Tip: Keep each repo README tight: problem → approach → stack → how to run → screenshots.
 
