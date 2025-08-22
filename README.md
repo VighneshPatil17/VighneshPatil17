@@ -31,10 +31,10 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 
 ## ✅ Featured Projects
 
-### 1) Nginx Reverse Proxy with Docker Compose (DevOps Internship)
-**One-liner:** Reverse proxy routing to **Golang** and **Python** services via `/service1` and `/service2` with containerized setup and health checks.  
-**Highlights:** Nginx, Docker Compose, AWS EC2, GitHub Actions CI.  
-**Repo:** [`devops-reverse-proxy`](https://github.com/<your-username>/devops-reverse-proxy)
+### 1) Kubernetes-Based Full-Stack Chat Application
+**One-liner:** Full-stack chat app (React, Node.js, MongoDB) deployed on Kubernetes with ingress routing and persistent storage.  
+**Highlights:** Docker, Kubernetes (Minikube), Nginx Ingress, Secrets, PV/PVC, React, Node.js, MongoDB.  
+**Repo:** [`k8s-chat-app`](https://github.com/VighneshPatil17/full-stack_chatApp.git)
 
 ### 3) Automated Retail Store on Amazon EKS
 **One-liner:** 5-service retail app deployed on Amazon EKS Auto Mode with fully automated provisioning and GitOps.  
