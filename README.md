@@ -4,7 +4,6 @@
 <p align="center">
 DevOps • Cloud • Software Developer — I build reliable infra, automate delivery, and ship clean code.
 </p>
----
 
 ## 🚀 About Me
 - I focus on **AWS, containers, CI/CD, observability**, and **backend engineering**.
