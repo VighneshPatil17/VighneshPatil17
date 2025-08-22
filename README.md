@@ -12,50 +12,44 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 - Current interests: **Kubernetes**, **IaC (Terraform)**, and **scalable microservices**.
 
 ## 📩 Connect with me
-<p>
-  <a href="mailto:VighneshPatil17@gmail.com">
-    <img src="https://img.shields.io/badge/-VighneshPatil17@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:VighneshPatil17@gmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/vighneshpatil17">
-    <img src="https://img.shields.io/badge/-VighneshPatil-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VighneshPatil17">
-    <img src="https://img.shields.io/badge/-VighneshPatil17-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+[![Gmail Badge](https://img.shields.io/badge/-VighneshPatil17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VighneshPatil17@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-VighneshPatil-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VighneshPatil)](https://www.linkedin.com/in/VighneshPatil)
+[![GitHub Badge](https://img.shields.io/badge/-VighneshPatil17-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VighneshPatil17)
 
 ---
 
 ## ⚡ Technologies
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+### Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2b%2b&logoColor=00599C)  
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)  
 
-### Libraries & Frameworks
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+### Libraries & Frameworks  
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)  
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)  
 
-### Tools
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-black?style=flat-square&logo=github)
+### Tools  
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)  
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)  
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform)  
+![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=github-actions)  
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare)  
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)  
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github)  
+
 
 
 ---
