@@ -6,9 +6,9 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 </p>
 
 <p align="center">
-  <a href="mailto:you@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://your-portfolio.link">Portfolio</a>
+  <a href="mailto:vighnesh17.patil@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vighnesh-patil-116a06274/">LinkedIn</a> •
+  <a href="https://vighneshpatil17.github.io/My_Portfolio/">Portfolio</a>
 </p>
 
 ---
@@ -25,12 +25,9 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,terraform,linux,bash,git,githubactions,python,go,nodejs,react,postgres,redis,vscode" />
 </p>
 
-<!-- If you want shields-style badges, keep this:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
--->
-
----
+<!-- If you want shields-style badges, keep this:! --->
+[AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## ✅ Featured Projects
 
@@ -70,8 +67,8 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 ---
 
 ## 📫 Contact
-- Email: **you@example.com**
-- LinkedIn: **linkedin.com/in/your-link**
+- Email: **vighnesh17.patil@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/vighnesh-patil-116a06274/**
 - Location: **Pune, India** (open to remote/relocation)
 
 <!-- Keep it fresh: update Projects and About every 1–2 months -->
