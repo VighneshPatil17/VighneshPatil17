@@ -20,10 +20,16 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,terraform,linux,bash,git,githubactions,python,go,nodejs,react,postgres,redis,vscode" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VighneshPatil17&show_icons=true&hide_title=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VighneshPatil17&layout=compact&langs_count=8" />
 </p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VighneshPatil17" />
+</p>
+
 
 <!-- If you want shields-style badges, keep this:! --->
 [AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
