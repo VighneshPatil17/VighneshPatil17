@@ -10,6 +10,8 @@ DevOps • Cloud • Software Developer — I build reliable infra, automate del
 - I enjoy turning requirements into **production-grade** services with **clean automation**.
 - Current interests: **Kubernetes**, **IaC (Terraform)**, and **scalable microservices**.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vighneshpatil17&show_icons=true)
+
 ## 📩 Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-VighneshPatil17@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:VighneshPatil17@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-VighneshPatil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vighnesh-patil17/)
